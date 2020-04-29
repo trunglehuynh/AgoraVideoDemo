@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoDemo</string>
+
+    <string name="agora_app_id">920ec304bf774d23afa64e52befb9613</string>
+    <string name="agora_token">YXBwSWQlM0Q5MjBlYzMwNGJmNzc0ZDIzYWZhNjRlNTJiZWZiOTYxMyUyNm5hbWUlM0RIdXluaCUyNnRpbWVzdGFtcCUzRDE1ODgxMDU1MjAlMjZjaGFubmVsJTNEZGVtbyUyNnRva2VuJTNE </string>
+
+</resources>
